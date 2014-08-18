@@ -141,9 +141,3 @@ if romeoAndJuliet[0].hasSuffix("Capulet's Mansion") {
 let normal = "Could you help me, please?"
 let shouty = normal.uppercaseString
 let whispered = normal.lowercaseString
-
-
-
-
-
-
